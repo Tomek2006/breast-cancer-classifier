@@ -1,0 +1,29 @@
+﻿# Visual Studio
+.vs/
+*.vsidx
+*.db
+*.sqlite
+*.suo
+*.user
+.wsuo
+CopilotIndices/
+FileContentIndex/
+v17/
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+
+# VS Code
+.vscode/
+
+# Project files (optional - keep if you want)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
